@@ -1,4 +1,11 @@
-Course Syllabus for "HIST212: Introduction to United States History: Reconstruction to the Present"
+---
+layout: default
+title: "HIST212: Introduction to United States History - Reconstruction to the Present"
+course_description: "An examination of the major political, economic, and social changes that took place in America from the end of the Civil War in 1865 through the first decade of the twenty-first century."
+next: ../Unit01
+previous: ../../../
+---
+Course Syllabus for "HIST212: Introduction to United States History - Reconstruction to the Present"
 ---------------------------------------------------------------------------------------------------
 
 This course will introduce you to United States history from the end of

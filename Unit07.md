@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST212: Introduction to United States History - Reconstruction to the Present"
+course_description: "An examination of the major political, economic, and social changes that took place in America from the end of the Civil War in 1865 through the first decade of the twenty-first century."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: The Cold War** <span id="7"></span> 
 **The economic destruction and loss of life caused by World War II
 devastated Great Britain, Germany, France, and much of Eastern Europe

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST212: Introduction to United States History - Reconstruction to the Present"
+course_description: "An examination of the major political, economic, and social changes that took place in America from the end of the Civil War in 1865 through the first decade of the twenty-first century."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: The Vietnam Era** <span id="9"></span> 
 **During the 1950s and 1960s, many American officials firmly believed in
 the Domino Theory, which held that a Communist revolution in one nation

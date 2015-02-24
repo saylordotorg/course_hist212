@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST212: Introduction to United States History - Reconstruction to the Present"
+course_description: "An examination of the major political, economic, and social changes that took place in America from the end of the Civil War in 1865 through the first decade of the twenty-first century."
+next: ../Unit12
+previous: ../Unit10
+---
 **Unit 11: New World Disorder** <span id="11"></span> 
 **Our final unit will evaluate trends in U.S. history during the 1990s
 and early 2000s. Following the collapse of the Soviet Union, the United

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST212: Introduction to United States History - Reconstruction to the Present"
+course_description: "An examination of the major political, economic, and social changes that took place in America from the end of the Civil War in 1865 through the first decade of the twenty-first century."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: American Industrialization** <span id="2"></span> 
 **The Civil War devastated the southern economy, but it encouraged the
 rapid growth and expansion of new industries such as steel and textile

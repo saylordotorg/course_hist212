@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST212: Introduction to United States History - Reconstruction to the Present"
+course_description: "An examination of the major political, economic, and social changes that took place in America from the end of the Civil War in 1865 through the first decade of the twenty-first century."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Political and Social Reform Movements** <span id="4"></span> 
 *The 1890s and early 1900s witnessed a profound social and political
 reaction to the Gilded Age, the period between the early 1870s and late

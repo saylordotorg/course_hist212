@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST212: Introduction to United States History - Reconstruction to the Present"
+course_description: "An examination of the major political, economic, and social changes that took place in America from the end of the Civil War in 1865 through the first decade of the twenty-first century."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Reconstruction** <span id="1"></span> 
 **Even before the last shots of the Civil War had been fired, President
 Lincoln and members of Congress faced serious questions about how to

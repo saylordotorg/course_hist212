@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST212: Introduction to United States History - Reconstruction to the Present"
+course_description: "An examination of the major political, economic, and social changes that took place in America from the end of the Civil War in 1865 through the first decade of the twenty-first century."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: World War I and the 1920s** <span id="5"></span> 
 **When the nations of Europe declared war on each other in the summer of
 1914, few observers expected the conflict to last more than a few

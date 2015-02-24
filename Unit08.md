@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST212: Introduction to United States History - Reconstruction to the Present"
+course_description: "An examination of the major political, economic, and social changes that took place in America from the end of the Civil War in 1865 through the first decade of the twenty-first century."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: The Civil Rights Movement** <span id="8"></span> 
 **Reconstruction offered African-Americans a chance to participate in
 the American political process and exercise their civil rights, but this

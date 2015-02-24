@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST212: Introduction to United States History - Reconstruction to the Present"
+course_description: "An examination of the major political, economic, and social changes that took place in America from the end of the Civil War in 1865 through the first decade of the twenty-first century."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Expanding Frontiers** <span id="3"></span> 
 *American explorers and settlers had pushed steadily westward across the
 North American continent since the earliest days of the Republic. In the
