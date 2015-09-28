@@ -145,3 +145,4 @@ few weeks to complete each unit, and then to set goals for yourself.
 - [Unit 10](https://legacy.saylor.org/hist212/Unit10/)
 - [Unit 11](https://legacy.saylor.org/hist212/Unit11/)
 - [Unit 12](https://legacy.saylor.org/hist212/Unit12/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST212/HIST212-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST212/HIST212-FinalExam-Answers.html)
