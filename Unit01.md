@@ -40,7 +40,7 @@ Upon successful completion of this unit, you will be able to:
     Civil War and Reconstruction”**
     Link: America.gov’s *Outline of U.S. History*:* *[“Chapter 7: The
     Civil War and
-    Reconstruction”](http://www.saylor.org/site/wp-content/uploads/2012/09/1-Outline-of-US-History-Chapter-7-1.pdf)
+    Reconstruction”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/1-Outline-of-US-History-Chapter-7-1.pdf)
     (PDF)  
       
      Instructions: Scroll down to the section titled “With Malice toward
@@ -110,7 +110,7 @@ Upon successful completion of this unit, you will be able to:
     Link: Fordham University: *Modern History Sourcebook*: Paul
     Halsall’s version of President Andrew Johnson’s [“Proclamation
     Declaring the Insurrection at an
-    End”](http://www.saylor.org/site/wp-content/uploads/2012/09/1.1.1-Proclamation-Declaring-the-Insurrection-at-an-End1.pdf)
+    End”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/1.1.1-Proclamation-Declaring-the-Insurrection-at-an-End1.pdf)
     (PDF)  
         
      Instructions: In this 1866 proclamation, President Andrew Johnson
@@ -254,7 +254,7 @@ id="1.2"></span> 
     Link: University of Oklahoma College of Law: *A Chronology of US
     Historical Documents*: Frederick Douglass’ [“Appeal to Congress for
     Impartial
-    Suffrage”](http://www.saylor.org/site/wp-content/uploads/2012/09/1.2.1-Appeal-to-Congress-for-Impartial-Suffrage.pdf) (PDF)  
+    Suffrage”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/1.2.1-Appeal-to-Congress-for-Impartial-Suffrage.pdf) (PDF)  
         
      Instructions: Read this document.  
         
@@ -421,7 +421,7 @@ id="1.2"></span> 
     Link: Cornell University Law School: *Legal Information
     Institute*:* *The United States Supreme Court, Justice Brown’s
     [“Opinion of the Court: *Plessy v.
-    Ferguson*”](http://www.saylor.org/site/wp-content/uploads/2012/09/1.3.3-Plessy-v.-Ferguson.pdf)
+    Ferguson*”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/1.3.3-Plessy-v.-Ferguson.pdf)
     (PDF)  
         
      Instructions: In this 1896 ruling, Justice Brown of the US Supreme
@@ -449,11 +449,11 @@ id="1.2"></span> 
 **Unit 1 Assessment** <span id="1.4"></span> 
 -   **Assessment: The Saylor Foundation’s “Reconstruction”**
     Link: The Saylor Foundation’s
-    [“Reconstruction”](http://www.saylor.org/site/wp-content/uploads/2012/06/HIST212-Assessment-Unit-1.FINAL_.pdf) (PDF)  
+    [“Reconstruction”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST212-Assessment-Unit-1.FINAL_.pdf) (PDF)  
       
      Instructions: Complete this written assessment. When you are
     finished, check your work against this [“Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2012/06/HIST212-Guide-to-Responding-Unit-1.FINAL_.pdf) (PDF).  
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST212-Guide-to-Responding-Unit-1.FINAL_.pdf) (PDF).  
       
      Completing this assessment should take approximately 1 hour.  
       

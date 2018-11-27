@@ -58,9 +58,9 @@ Upon successful completion of this unit, you will be able to:
     World War II”**
     Links: America.gov’s *Outline of U.S. History*: [“Chapter 10: War,
     Prosperity, and
-    Depression”](http://www.saylor.org/site/wp-content/uploads/2012/09/5-Outline-of-US-History-Chapter10.pdf) and
+    Depression”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/5-Outline-of-US-History-Chapter10.pdf) and
     [“Chapter 11: The New Deal and World War
-    II”](http://www.saylor.org/site/wp-content/uploads/2012/09/6-Outline-of-US-History-Chapter-11.pdf)
+    II”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/6-Outline-of-US-History-Chapter-11.pdf)
     (PDF)  
       
      Instructions: Read the final section of Chapter 10 titled “The
@@ -228,7 +228,7 @@ id="6.2.1"></span> 
     Link: Gerhard Peters and John T. Woolley’s *The American Presidency
     Project*: Franklin D. Roosevelt’s [“Address at the Democratic
     National
-    Convention”](http://www.saylor.org/site/wp-content/uploads/2012/09/6.2.1-Address-Accepting-the-Presidential-Nomination.pdf)
+    Convention”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/6.2.1-Address-Accepting-the-Presidential-Nomination.pdf)
     (PDF)  
         
      Instructions: Read the primary-source document on the webpage.  
@@ -492,7 +492,7 @@ id="6.3.2"></span> 
     Link: The Public Broadcasting Service and WGBH Boston’s *The
     American Experience: Lindbergh*: ** Charles Lindbergh’s [“Address to
     the America First
-    Committee”](http://www.saylor.org/site/wp-content/uploads/2012/09/6.3.2-Address-to-the-America-First-Committee.pdf)
+    Committee”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/6.3.2-Address-to-the-America-First-Committee.pdf)
     (PDF)  
         
      Instructions: Read this primary-source document.  
@@ -756,12 +756,12 @@ id="6.3.2"></span> 
 -   **Assessment: The Saylor Foundation’s “The Great Depression and
     World War II”**
     Link: The Saylor Foundation’s [“The Great Depression and World War
-    II](http://www.saylor.org/site/wp-content/uploads/2012/06/HIST212-Assessment-Unit-6.FINAL_.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/06/HIST212-Assessment-Unit-6.FINAL_.pdf)
+    II](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST212-Assessment-Unit-6.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST212-Assessment-Unit-6.FINAL_.pdf)
     (PDF)  
       
      Instructions: Complete this written assessment. When you are
     finished, check your work against this [“Guide to
-    Responding](http://www.saylor.org/site/wp-content/uploads/2012/06/HIST212-Guide-to-Responding-Unit-6.FINAL_.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/06/HIST212-Guide-to-Responding-Unit-6.FINAL_.pdf)
+    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST212-Guide-to-Responding-Unit-6.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST212-Guide-to-Responding-Unit-6.FINAL_.pdf)
     (PDF).  
       
      Completing this assessment should take approximately 1 hour.

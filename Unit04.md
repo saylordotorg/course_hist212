@@ -42,7 +42,7 @@ Upon successful completion of this unit, you will be able to:
     Discontent and Reform”**
     Link: America.gov’s *Outline of U.S. History*: ** [“Chapter 9:
     Discontent and
-    Reform”](http://www.saylor.org/site/wp-content/uploads/2012/09/4-Outline-of-US-History-Chapter-9.pdf)
+    Reform”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/4-Outline-of-US-History-Chapter-9.pdf)
     (PDF)  
       
      Instructions: Read this chapter.  
@@ -430,12 +430,12 @@ id="4.2.2"></span> 
 -   **Assessment: The Saylor Foundation’s “Political and Social Reform
     Movements”**
     Link: The Saylor Foundation’s [“Political and Social Reform
-    Movements](http://www.saylor.org/site/wp-content/uploads/2012/06/HIST212-Assessment-Unit-4.FINAL_.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/06/HIST212-Assessment-Unit-4.FINAL_.pdf)
+    Movements](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST212-Assessment-Unit-4.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST212-Assessment-Unit-4.FINAL_.pdf)
     (PDF)  
       
      Instructions: Complete this written assessment. When you are
     finished, check your work against this [“Guide to
-    Responding](http://www.saylor.org/site/wp-content/uploads/2012/06/HIST212-Guide-to-Responding-Unit-4.FINAL_.pdf)[.”](http://www.saylor.org/site/wp-content/uploads/2012/06/HIST212-Guide-to-Responding-Unit-4.FINAL_.pdf)
+    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST212-Guide-to-Responding-Unit-4.FINAL_.pdf)[.”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST212-Guide-to-Responding-Unit-4.FINAL_.pdf)
     (PDF)  
       
      Completing this assessment should take approximately 1 hour.
