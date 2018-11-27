@@ -80,7 +80,7 @@ Upon completion of this unit, you will be able to:
     War, Prosperity, and Depression”**
     Link: America.gov’s *Outline of U.S. History*:* *[“Chapter 10: War,
     Prosperity, and
-    Depression”](http://www.saylor.org/site/wp-content/uploads/2012/09/5-Outline-of-US-History-Chapter10.pdf)
+    Depression”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/5-Outline-of-US-History-Chapter10.pdf)
     (PDF)  
         
      Instructions: Read the entire article except for the final section
@@ -198,7 +198,7 @@ id="5.2.1"></span> 
     Document Archive*: Woodrow Wilson’s “War Message to Congress”**
     Link: Brigham Young University Library’s *The World War I Document
     Archive*: ** Woodrow Wilson’s [“War Message to
-    Congress”](http://www.saylor.org/site/wp-content/uploads/2012/09/5.2.1-War-Message-to-Congress.pdf)
+    Congress”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/5.2.1-War-Message-to-Congress.pdf)
     (PDF)  
         
      Instructions: Read the primary-source document on the webpage.  
@@ -649,12 +649,12 @@ Harlem Renaissance** <span id="5.5.2"></span> 
 **Unit 5 Assessment** <span id="5.6"></span> 
 -   **Assessment: The Saylor Foundation’s “World War I and the 1920s”**
     Link: The Saylor Foundation’s [“World War I and the
-    1920s](http://www.saylor.org/site/wp-content/uploads/2012/06/HIST212-Assessment-Unit-5.FINAL_.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/06/HIST212-Assessment-Unit-5.FINAL_.pdf)
+    1920s](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST212-Assessment-Unit-5.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST212-Assessment-Unit-5.FINAL_.pdf)
     (PDF)  
       
      Instructions: Complete this written assessment. When you are
     finished, check your work against this [“Guide to
-    Responding](http://www.saylor.org/site/wp-content/uploads/2012/06/HIST212-Guide-to-Responding-Unit-5.FINAL_.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/06/HIST212-Guide-to-Responding-Unit-5.FINAL_.pdf)
+    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST212-Guide-to-Responding-Unit-5.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST212-Guide-to-Responding-Unit-5.FINAL_.pdf)
     (PDF).  
       
      Completing this assessment should take approximately 2 hours.

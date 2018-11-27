@@ -89,7 +89,7 @@ documents (.doc, .ppt, .xls, etc.);</span>
  <span dir="LTR">√    have competency in the English language;</span>  
   
  √    have read the [Saylor Student
-Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);
+Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf);
 and  
   
  √    have completed all courses listed in the [Core

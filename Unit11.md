@@ -57,9 +57,9 @@ Upon successful completion of this unit, you will be able to:
     the 21st Century”**
     Links: America.gov’s *Outline of U.S. History*:* *[“Chapter 14: The
     New Conservatism and a New World
-    Order”](http://www.saylor.org/site/wp-content/uploads/2012/09/10-Outline-of-US-History-Chapter-14.pdf)
+    Order”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/10-Outline-of-US-History-Chapter-14.pdf)
     (PDF) and [“Chapter 15: Bridge to the 21<sup>st</sup>
-    Century”](http://www.saylor.org/site/wp-content/uploads/2012/09/11-Outline-of-US-History-Chapter15.pdf)
+    Century”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/11-Outline-of-US-History-Chapter15.pdf)
     (PDF)  
       
      Instructions: Read Chapter 14 from the section titled “The
@@ -326,12 +326,12 @@ Upon successful completion of this unit, you will be able to:
 **Unit 11 Assessment** <span id="11.4"></span> 
 -   **Assignment: The Saylor Foundation’s “New World Disorder”**
     Link: The Saylor Foundation’s [“New World
-    Disorder](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST212-Assessment-Unit11.FINAL_.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST212-Assessment-Unit11.FINAL_.pdf)
+    Disorder](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST212-Assessment-Unit11.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST212-Assessment-Unit11.FINAL_.pdf)
     (PDF)  
       
      Instructions: Complete this written assignment. When you are
     finished, check your work against this [“Guide to
-    Responding](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST212-Guide-to-Responding-Unit11.FINAL_.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST212-Guide-to-Responding-Unit11.FINAL_.pdf)
+    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST212-Guide-to-Responding-Unit11.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST212-Guide-to-Responding-Unit11.FINAL_.pdf)
     (PDF).  
       
      Completing this assessment should take approximately 1 hour.

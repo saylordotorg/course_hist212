@@ -53,7 +53,7 @@ Upon successful completion of this unit, you will be able to:
     Growth and Transformation”**
     Link: America.gov’s *Outline of U.S. History*: [“Chapter 8: Growth
     and
-    Transformation”](http://www.saylor.org/site/wp-content/uploads/2012/09/2-Outline-of-US-History-Chapter-8.pdf)
+    Transformation”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/2-Outline-of-US-History-Chapter-8.pdf)
     (PDF)  
         
      Instructions: Scroll down about half-way until you find the section
@@ -241,7 +241,7 @@ id="3.1.4"></span> 
     Kidd’s version of Frederick Jackson Turner’s *The Frontier in
     American History*: [“Chapter 1: The Significance of the Frontier in
     American
-    History”](http://www.saylor.org/site/wp-content/uploads/2013/05/HIST212_Frederick-Jackson-Turner_The-Frontier-In-American-History.pdf) (PDF)  
+    History”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/HIST212_Frederick-Jackson-Turner_The-Frontier-In-American-History.pdf) (PDF)  
         
      Also available in:  
      [Google
@@ -329,7 +329,7 @@ id="3.1.4"></span> 
     “Growth and Transformation”**
     Link: America.gov’s *Outline of American History*: Chapter 8,
     [“Growth and
-    Transformation](http://www.saylor.org/site/wp-content/uploads/2012/09/2-Outline-of-US-History-Chapter-8.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/09/2-Outline-of-US-History-Chapter-8.pdf)
+    Transformation](https://resources.saylor.org/archived/wp-content/uploads/2012/09/2-Outline-of-US-History-Chapter-8.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/2-Outline-of-US-History-Chapter-8.pdf)
     (PDF)  
         
      Instructions: Read the section of the article beginning with the
@@ -356,7 +356,7 @@ id="3.1.4"></span> 
     Link: Fordham University’s *Modern History Sourcebook*:* *Paul
     Halsall’s version of the American Anti-Imperialist League’s
     [“Platform of the American Anti-imperialist
-    League”](http://www.saylor.org/site/wp-content/uploads/2011/05/Platform-of-the-American.pdf)
+    League”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/Platform-of-the-American.pdf)
     (PDF)  
         
      Instructions: Read this document, which presents the 1899 platform
@@ -400,11 +400,11 @@ id="3.2.3"></span> 
 **Unit 3 Assessment** <span id="3.3"></span> 
 -   **Assessment: The Saylor Foundation’s “Expanding Frontiers”**
     Link: The Saylor Foundation’s [“Expanding
-    Frontiers”](http://www.saylor.org/site/wp-content/uploads/2012/09/Assessment-Unit-3-Expanding-Frontiers.pdf) (PDF)  
+    Frontiers”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/Assessment-Unit-3-Expanding-Frontiers.pdf) (PDF)  
       
      Instructions: Complete this written assessment. When you are
     finished, check your work against this [“Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2012/09/Assessment-Unit-3-Guide-to-Responding.pdf) (PDF).  
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/Assessment-Unit-3-Guide-to-Responding.pdf) (PDF).  
       
      Completing this assessment should take approximately 1 hour and 30
     minutes.

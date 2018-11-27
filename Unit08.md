@@ -64,9 +64,9 @@ Upon successful completion of this unit, you will be able to:
     Postwar America” and “Chapter 13: Decades of Change—1960-1980”**
     Links: America.gov’s *Outline of U.S. History*:* *[“Chapter 12:
     Postwar
-    America”](http://www.saylor.org/site/wp-content/uploads/2012/09/7-Outline-of-US-History-Chapter-12.pdf) and
+    America”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/7-Outline-of-US-History-Chapter-12.pdf) and
     [“Chapter 13: Decades of
-    Change—1960-1980”](http://www.saylor.org/site/wp-content/uploads/2012/09/8-Outline-of-US-History-Chapter-13.pdf)
+    Change—1960-1980”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/8-Outline-of-US-History-Chapter-13.pdf)
     (PDF)  
       
      Instructions: Read the final 2 sections of Chapter 12 beginning
@@ -128,7 +128,7 @@ Upon successful completion of this unit, you will be able to:
     Board of Education of Topeka, Kansas, 1954”**
     Link: Chief Justice Earl Warren’s [“Majority Opinion, *Brown v.
     Board of Education of
-    Topeka,Kansas,*1954”](http://www.saylor.org/site/wp-content/uploads/2012/09/8.1.1-SUPREME-COURT-OF-THE-UNITED-STATES.pdf)
+    Topeka,Kansas,*1954”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/8.1.1-SUPREME-COURT-OF-THE-UNITED-STATES.pdf)
     (PDF)  
       
      Instructions: Read the primary-source document on the website.   

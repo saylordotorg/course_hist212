@@ -59,7 +59,7 @@ Upon successful completion of this unit, you will be able to:
     Postwar America”**
     Link: America.gov’s *Outline of U.S. History*:* *[“Chapter 12:
     Postwar
-    America”](http://www.saylor.org/site/wp-content/uploads/2012/09/7-Outline-of-US-History-Chapter-12.pdf)
+    America”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/7-Outline-of-US-History-Chapter-12.pdf)
     (PDF)  
       
      Instructions: Read Chapter 12 through the end of the section titled
@@ -168,7 +168,7 @@ id="7.1.2"></span> 
     “The Truman Doctrine”**
     Link: Yale Law School: Lillian Goldman Law Library’s version
     of [“The Truman
-    Doctrine](http://www.saylor.org/site/wp-content/uploads/2012/09/7.1.2-The-Truman-Doctrine.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/09/7.1.2-The-Truman-Doctrine.pdf)
+    Doctrine](https://resources.saylor.org/archived/wp-content/uploads/2012/09/7.1.2-The-Truman-Doctrine.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/7.1.2-The-Truman-Doctrine.pdf)
     (PDF)  
         
      Instructions: Read the speech delivered by President Truman to
@@ -217,7 +217,7 @@ id="7.1.2"></span> 
 -   **Reading: Authentichistory.com: “Origins of the Cold War
     (1946 -1950)”**
     Link: Authentichistory.com: [“Origins of the Cold War
-    (1946 -1950)”](http://www.saylor.org/site/wp-content/uploads/2013/05/HIST212-7.1.4-OriginsoftheColdWar.pdf) (PDF)  
+    (1946 -1950)”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/HIST212-7.1.4-OriginsoftheColdWar.pdf) (PDF)  
       
      Instructions: Read this article which chronicles the major events
     at the beginning of the Cold War including the successful testing of
@@ -237,10 +237,10 @@ id="7.1.2"></span> 
     the Hydrogen Bomb”**
     Links: Los Alamos National Laboratory’s *A History of National
     Security*: [“Postwar
-    World”](http://www.saylor.org/site/wp-content/uploads/2012/09/7.1.4-Postwar-World.pdf), [“The
-    Debate”](http://www.saylor.org/site/wp-content/uploads/2012/09/7.1.4-The-Debate.pdf),
+    World”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/7.1.4-Postwar-World.pdf), [“The
+    Debate”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/7.1.4-The-Debate.pdf),
     and [“The Development of the Hydrogen
-    Bomb”](http://www.saylor.org/site/wp-content/uploads/2012/09/7.1.4-The-Development-of-the-Hydrogen-Bomb.pdf)
+    Bomb”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/7.1.4-The-Development-of-the-Hydrogen-Bomb.pdf)
     (PDF)  
         
      Instructions: Read these articles.  
@@ -343,7 +343,7 @@ id="7.1.2"></span> 
 -   **Reading: Dwight D. Eisenhower’s “Message to Congress,” January 5,
     1957**
     Link: President Dwight D. Eisenhower’s [“Message to
-    Congress,”](http://www.saylor.org/site/wp-content/uploads/2012/09/7.1.6-The-Eisenhower-Doctrine-on-the-Middle-East.pdf)
+    Congress,”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/7.1.6-The-Eisenhower-Doctrine-on-the-Middle-East.pdf)
     (PDF) January 5, 1957  
         
      Instructions: Read this primary-source document.  
@@ -582,14 +582,14 @@ id="7.1.2"></span> 
 **Unit 7 Assessment** <span id="7.4"></span> 
 -   **Assignment: The Saylor Foundation’s “The Cold War”**
     Link: The Saylor Foundation’s [“The Cold
-    War](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST212-Assessment-Unit-7.FINAL_.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST212-Assessment-Unit-7.FINAL_.pdf)
+    War](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST212-Assessment-Unit-7.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST212-Assessment-Unit-7.FINAL_.pdf)
     (PDF)  
       
      Instructions: Complete this written assignment. When you are
     finished, check your work against this
-    [“](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST212-Guide-to-Responding-Unit-7.FINAL_.pdf)[Guide
+    [“](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST212-Guide-to-Responding-Unit-7.FINAL_.pdf)[Guide
     to
-    Responding](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST212-Guide-to-Responding-Unit-7.FINAL_.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST212-Guide-to-Responding-Unit-7.FINAL_.pdf)
+    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST212-Guide-to-Responding-Unit-7.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST212-Guide-to-Responding-Unit-7.FINAL_.pdf)
     (PDF).  
       
      Completing this assessment should take approximately 1 hour.
