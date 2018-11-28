@@ -62,7 +62,7 @@ Upon successful completion of this unit, you will be able to:
     Decades of Change—1960-1980”**
     Link: America.gov’s *Outline of U.S. History*:* *[“Chapter 13:
     Decades of
-    Change—1960-1980”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/8-Outline-of-US-History-Chapter-13.pdf)
+    Change—1960-1980”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/8-Outline-of-US-History-Chapter-13.pdf)
     (PDF)  
       
      Instructions: Read Chapter 13 beginning with the fifth section
@@ -271,7 +271,7 @@ id="9.1.2"></span> 
     Congress”**
     Link: Ashbook Center for Public Affairs at Ashland University’s
     *TeachingAmericanHistory.org*:* *Lyndon Johnson’s [“Message to
-    Congress”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/9.2.2-President’s-Message-to-Congress.pdf)
+    Congress”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/9.2.2-President’s-Message-to-Congress.pdf)
     (PDF)  
         
      Instructions: Read the primary-source document on the webpage.   
@@ -356,7 +356,7 @@ id="9.1.2"></span> 
 -   **Web Media: Archive.org’s “1968 Revolution Rewind Moment – Tet
     Offensive”**
     Link: Archive.org’s [“1968 Revolution Rewind Moment – Tet
-    Offensive”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/1968-Revolution-Rewind-Moment-–-Tet-Offensive.mp3) (mp3)  
+    Offensive”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/1968-Revolution-Rewind-Moment-–-Tet-Offensive.mp3) (mp3)  
         
      Instructions: Listen to this reporter’s eye-witness account of the
     1968 Tet Offensive. American reporters such as Walter Cronkite
@@ -610,12 +610,12 @@ id="9.5.2"></span> 
     the Vietnam Era”**
     Link: The Saylor Foundation’s [“The Civil Rights Movement and the
     Vietnam
-    Era](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST212-Assessment-Unit-89.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST212-Assessment-Unit-89.FINAL_.pdf)
+    Era](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/HIST212-Assessment-Unit-89.FINAL_.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/HIST212-Assessment-Unit-89.FINAL_.pdf)
     (PDF)  
       
      Instructions: Complete this written assignment. When you are
     finished, check your work against this [“Guide to
-    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST212-Guide-to-Responding-Units89.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST212-Guide-to-Responding-Units89.FINAL_.pdf)
+    Responding](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/HIST212-Guide-to-Responding-Units89.FINAL_.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/HIST212-Guide-to-Responding-Units89.FINAL_.pdf)
     (PDF).  
       
      Completing this assessment should take approximately 1 hour.

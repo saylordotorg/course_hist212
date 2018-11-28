@@ -57,9 +57,9 @@ Upon successful completion of this unit, you will be able to:
     and a New World Order”**
     Links: America.gov’s *Outline of U.S. History*:* *[“Chapter 13:
     Decades of
-    Change—1960-1980”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/8-Outline-of-US-History-Chapter-13.pdf) and
+    Change—1960-1980”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/8-Outline-of-US-History-Chapter-13.pdf) and
     [“Chapter 14: The New Conservatism and a New World
-    Order”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/10-Outline-of-US-History-Chapter-14.pdf)
+    Order”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/10-Outline-of-US-History-Chapter-14.pdf)
     (PDF)  
       
      Instructions: Read the final section of Chapter 13 titled “The
@@ -199,7 +199,7 @@ Upon successful completion of this unit, you will be able to:
     Rebellion of Ronald Reagan: A History of the End of the Cold War”**
     Link: Player.FM: New Books in Foreign Policy: James Mann’s [“The
     Rebellion of Ronald Reagan: A History of the End of the Cold
-    War”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/The-Rebellion-of-Ronald-Reagan-A-History-of-the-End-of-the-Cold-War.mp3) (mp3)  
+    War”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/The-Rebellion-of-Ronald-Reagan-A-History-of-the-End-of-the-Cold-War.mp3) (mp3)  
         
      Instructions: Listen to this interview.  
       
@@ -220,7 +220,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: The History Place: Ronald Reagan’s “Tear Down this Wall”
     Speech**
     Link: The History Place: Ronald Reagan’s [“Tear Down this Wall”
-    Speech](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Ronald-Raegans-Tear-Down-this-Wall.pdf)
+    Speech](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/Ronald-Raegans-Tear-Down-this-Wall.pdf)
     (PDF)  
          
      Instructions: Read this speech.   
@@ -262,12 +262,12 @@ Upon successful completion of this unit, you will be able to:
 -   **Assignment: The Saylor Foundation’s “The Conservative
     Ascendancy”**
     Link: The Saylor Foundation’s [“The Conservative
-    Ascendancy](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST212-Assessment-Unit10.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST212-Assessment-Unit10.FINAL_.pdf)
+    Ascendancy](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/HIST212-Assessment-Unit10.FINAL_.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/HIST212-Assessment-Unit10.FINAL_.pdf)
     (PDF)  
       
      Instructions: Complete this written assignment. When you are
     finished, check your work against this [“Guide to
-    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST212-Guide-to-Responding-Unit10.FINAL_.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST212-Guide-to-Responding-Unit10.FINAL_.pdf)(PDF).  
+    Responding](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/HIST212-Guide-to-Responding-Unit10.FINAL_.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/HIST212-Guide-to-Responding-Unit10.FINAL_.pdf)(PDF).  
       
      Completing this assessment should take approximately 1 hour.
 

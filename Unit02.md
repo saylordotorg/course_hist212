@@ -54,7 +54,7 @@ Upon successful completion of this unit, you will be able to:
     and Transformation”**
     Link: America.gov: *Outline of US History*: ** [“Chapter 8: Growth
     and
-    Transformation”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/2-Outline-of-US-History-Chapter-8.pdf)
+    Transformation”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/2-Outline-of-US-History-Chapter-8.pdf)
     (PDF)  
         
      Instructions: Read the first five sections of the chapter, and stop
@@ -73,7 +73,7 @@ Upon successful completion of this unit, you will be able to:
     Gilded Age”**
     Link: Sage American History: Henry J. Sage’s [“Politics in the
     Gilded
-    Age”](https://resources.saylor.org/archived/wp-content/uploads/2013/09/Politics-in-the-Gilded-Age-1865-1900-COMPLETE2.html)
+    Age”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/09/Politics-in-the-Gilded-Age-1865-1900-COMPLETE2.html)
     (HTML)  
         
      Instructions: Read the webpage from the beginning up until the
@@ -191,7 +191,7 @@ id="2.1.2"></span> 
     ** Andy Blunden’s versions of Frederick W. Taylor’s *The Principles
     of Scientific Management*:* *[“Chapter One: Fundamentals of
     Scientific
-    Management”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/2.1.2-Principles-of-Scientific-Management.pdf)
+    Management”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/2.1.2-Principles-of-Scientific-Management.pdf)
     (PDF)  
         
      Instructions: In this first chapter of his groundbreaking study on
@@ -375,9 +375,9 @@ id="2.1.2"></span> 
     Town Back-Alleys”**
     Links: Bartleby.com’s version of Jacob A. Riis’ *How The Other Half
     Lives*: [“Chapter 3: The Mixed
-    Crowd”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/HIS212_Jacob-Riis-The-Mixed-Crowd.pdf)
+    Crowd”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/HIS212_Jacob-Riis-The-Mixed-Crowd.pdf)
     (PDF) and [“Chapter 4: The Down Town
-    Back-Alleys”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/HIS212_Jacob-Riis-The-Down-Town-Back-Alleys.pdf)
+    Back-Alleys”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/HIS212_Jacob-Riis-The-Down-Town-Back-Alleys.pdf)
     (PDF)  
         
      Also available in:  
@@ -580,9 +580,9 @@ id="2.4.2"></span> 
     Leisure, 1894-1915*: “America at Work” and “America at Leisure”**
     Links: The Library of Congress’s *America at Work/America at
     Leisure, 1894-1915*: [“America at
-    Work”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/America-at-Work.pdf)
+    Work”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/America-at-Work.pdf)
     (PDF) and [“America at
-    Leisure”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/America-at-Leisure.pdf)
+    Leisure”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/America-at-Leisure.pdf)
     (PDF)  
         
      Instructions: Read both articles. Select some of the vintage movie
@@ -602,11 +602,11 @@ id="2.4.2"></span> 
 **Unit 2 Assessment** <span id="2.5"></span> 
 -   **Assessment: The Saylor Foundation’s “American Industrialization”**
     Link: The Saylor Foundation’s [“American
-    Industrialization”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST212-Assessment-Unit-2.FINAL_.pdf) (PDF)  
+    Industrialization”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/HIST212-Assessment-Unit-2.FINAL_.pdf) (PDF)  
       
      Instructions: Complete this written assessment. When you are
     finished, check your work against this [“Guide to
-    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/HIST212-Guide-to-Responding-Unit-2.FINAL_.pdf) (PDF).  
+    Responding”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/HIST212-Guide-to-Responding-Unit-2.FINAL_.pdf) (PDF).  
       
      Completing this assessment should take approximately 1 hour.
 
